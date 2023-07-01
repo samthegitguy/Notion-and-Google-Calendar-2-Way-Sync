@@ -1,4 +1,7 @@
 # Notion-and-Google-Calendar-2-Way-Sync
+
+[![Pylint](https://github.com/samthegitguy/Notion-and-Google-Calendar-2-Way-Sync/actions/workflows/pylint.yml/badge.svg)](https://github.com/samthegitguy/Notion-and-Google-Calendar-2-Way-Sync/actions/workflows/pylint.yml)
+
 2 Way Sync Between a Notion Database and Google Calendar
 
 UPDATE: There seems to be some stuff broken when Notion updated their API again. I'm not going to be able to fix this until the school year is over due to classes but it will be fixed in May 2023 or whenever I'm able to find a full time position.
